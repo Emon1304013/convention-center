@@ -48,6 +48,14 @@ section{
 .selected .hot-button{
     border-radius: 13.5px;
 }
+.clients{
+    background: #FFFFFF;
+box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
+border-radius: 5px;
+}
+.clients p{
+    color: #6C6C6C;
+}
 /* .packages li i{
     color: rgba(82, 67, 194, 0.103693);
     
